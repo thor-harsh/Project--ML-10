@@ -2,7 +2,7 @@
 
 <table>
 
-**In this project we will build the model Support Vector Machines with Kernel for classifying Purchased as 0(Not Purchased) or 1(Purchased) from different features in the dataset**.<br></br>  
+**In this project we will build the Model Support Vector Machines with Kernel for classifying Purchased as 0(Not Purchased) or 1(Purchased) from different features in the dataset**.<br></br>  
 
 Support Vector Machine (SVM) is a powerful machine learning algorithm used for linear or nonlinear classification, regression, and even outlier detection tasks. 
 Kernel Function is a method used to take data as input and transform it into the required form of processing data.
